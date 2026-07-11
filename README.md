@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7DF1E&background=00000000&center=true&vCenter=true&random=false&width=600&height=50&lines=Web+Developer+%F0%9F%92%BB;UI+Designer+%F0%9F%8E%A8;Informatics+Student+%F0%9F%8E%93;Tech+Enthusiast+%E2%9A%99%EF%B8%8F" alt="Typing SVG" /></a>
+</div>
+
+---
+
 ### 👋 Halo, saya David Firdaus!
 
 🎓 **Mahasiswa Teknik Informatika** | 💻 **Web Developer & UI Designer**
@@ -49,9 +55,20 @@ Saya punya ketertarikan besar pada teknologi, desain antarmuka, dan pengalaman p
 ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
 ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
 
+---
 
+### 🚀 Proyek Unggulan
+Berikut beberapa proyek yang pernah saya kerjakan:
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=davidfirdaus08&icon=0&color=0" alt="Visitor count">
-  <br>
-  <i>"Desain yang baik bukan hanya tentang tampilan, tapi juga tentang bagaimana cara kerjanya."</i>
+  <a href="https://davidfirdaus08.github.io/about_me/">
+  </a>
+  <a href="https://v1dflinks.gt.tc/">
+  </a>
+</div>
+
+---
+
+### 💬 Kutipan Acak
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </div>
