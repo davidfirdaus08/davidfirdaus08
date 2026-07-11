@@ -60,15 +60,26 @@ Saya punya ketertarikan besar pada teknologi, desain antarmuka, dan pengalaman p
 ### 🚀 Proyek Unggulan
 Berikut beberapa proyek yang pernah saya kerjakan:
 
-<div align="center">
-  <a href="https://davidfirdaus08.github.io/about_me/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidfirdaus08&repo=about_me&theme=dark&hide_border=true" alt="About Me Project" />
-  </a>
-
-  <a href="https://v1dflinks.gt.tc/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidfirdaus08&repo=v1dflinks&theme=dark&hide_border=true" alt="DF Links Project" />
-  </a>
-</div>
+<table border="0" cellspacing="0" cellpadding="20" align="center">
+  <tr>
+    <td align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 25px; width: 300px;">
+      <h3>📖 About Me</h3>
+      <p style="color: #8b949e; font-size: 14px;">Website Portofolio Personal</p>
+      <br>
+      <a href="https://davidfirdaus08.github.io/about_me/">
+        <img src="https://img.shields.io/badge/Kunjungi_Website-181717?style=for-the-badge&logo=github&logoColor=white" alt="About Me" />
+      </a>
+    </td>
+    <td align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 25px; width: 300px;">
+      <h3>🔗 DF Links</h3>
+      <p style="color: #8b949e; font-size: 14px;">Aplikasi Penyingkat Tautan</p>
+      <br>
+      <a href="https://v1dflinks.gt.tc/">
+        <img src="https://img.shields.io/badge/Buka_Aplikasi-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="DF Links" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
