@@ -59,10 +59,14 @@ Saya punya ketertarikan besar pada teknologi, desain antarmuka, dan pengalaman p
 
 ### 🚀 Proyek Unggulan
 Berikut beberapa proyek yang pernah saya kerjakan:
+
 <div align="center">
   <a href="https://davidfirdaus08.github.io/about_me/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidfirdaus08&repo=about_me&theme=dark&hide_border=true" alt="About Me Project" />
   </a>
+
   <a href="https://v1dflinks.gt.tc/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidfirdaus08&repo=v1dflinks&theme=dark&hide_border=true" alt="DF Links Project" />
   </a>
 </div>
 
