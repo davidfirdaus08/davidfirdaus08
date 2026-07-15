@@ -13,7 +13,7 @@ Saya punya ketertarikan besar pada teknologi, desain antarmuka, dan pengalaman p
 - 🌱 **Sedang mendalami:** Python, C++, Web Development
 - 🛠️ **Fokus saat ini:** Membangun proyek pribadi (Web App, Sistem Informasi) & eksperimen otomasi (Telegram Bot, REST API)
 - 💡 **Prinsip kerja:** Teknologi terbaik adalah teknologi yang terasa sederhana bagi penggunanya.
-- 🎮 **Hobi:** Nge-game, ngulik game engine, dan utak-atik Arduino di waktu luang.
+- 🎮 **Hobi:** Nge-game, mengeksplorasi game engine, serta mengembangkan dan bereksperimen dengan berbagai teknologi web di waktu luang.
 
 ---
 
