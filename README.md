@@ -76,7 +76,7 @@ Berikut beberapa proyek yang pernah saya kerjakan:
       <h3>🔗 DF Links</h3>
       <p style="color: #8b949e; font-size: 14px;">Aplikasi Penyingkat Tautan</p>
       <br>
-      <a href="https://v1dflinks.gt.tc/">
+      <a href="https://dflinks.pages.dev">
         <img src="https://img.shields.io/badge/Buka_Aplikasi-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="DF Links" />
       </a>
     </td>
