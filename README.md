@@ -10,7 +10,7 @@
 
 Saya punya ketertarikan besar pada teknologi, desain antarmuka, dan pengalaman pengguna. Saya menikmati proses mengubah ide menjadi produk digital yang cepat, responsif, dan mudah digunakan. 
 
-- 🌱 **Sedang mendalami:** Python, C++, Web Development
+- 🌱 **Sedang mendalami:** Python, C++, Web Development (PHP, MySQL)
 - 🛠️ **Fokus saat ini:** Membangun proyek pribadi (Web App, Sistem Informasi) & eksperimen otomasi (Telegram Bot, REST API)
 - 💡 **Prinsip kerja:** Teknologi terbaik adalah teknologi yang terasa sederhana bagi penggunanya.
 - 🎮 **Hobi:** Nge-game, mengeksplorasi game engine, serta mengembangkan dan bereksperimen dengan berbagai teknologi web di waktu luang.
