@@ -68,7 +68,7 @@ Berikut beberapa proyek yang pernah saya kerjakan:
       <h3>📖 About Me</h3>
       <p style="color: #8b949e; font-size: 14px;">Website Portofolio Personal</p>
       <br>
-      <a href="https://davidfirdaus08.github.io/about_me/" target="_blank" rel="noopener noreferrer">>
+      <a href="https://davidfirdaus08.github.io/about_me/">
         <img src="https://img.shields.io/badge/Kunjungi_Website-181717?style=for-the-badge&logo=github&logoColor=white" alt="About Me" />
       </a>
     </td>
@@ -76,7 +76,7 @@ Berikut beberapa proyek yang pernah saya kerjakan:
       <h3>🔗 DF Links</h3>
       <p style="color: #8b949e; font-size: 14px;">Aplikasi Penyingkat Tautan</p>
       <br>
-      <a href="https://dflinks.pages.dev" target="_blank" rel="noopener noreferrer">
+      <a href="https://dflinks.pages.dev">
         <img src="https://img.shields.io/badge/Buka_Aplikasi-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="DF Links" />
       </a>
     </td>
