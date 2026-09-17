@@ -65,10 +65,10 @@ Berikut beberapa proyek yang pernah saya kerjakan:
 <table border="0" cellspacing="0" cellpadding="20" align="center">
   <tr>
     <td align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 25px; width: 300px;">
-      <h3>📖 About Me</h3>
+      <h3>📖 Portofolio</h3>
       <p style="color: #8b949e; font-size: 14px;">Website Portofolio Personal</p>
       <br>
-      <a href="https://davidfirdaus08.github.io/about_me/">
+      <a href="https://davidfirdaus08.github.io/portofolio/">
         <img src="https://img.shields.io/badge/Kunjungi_Website-181717?style=for-the-badge&logo=github&logoColor=white" alt="About Me" />
       </a>
     </td>
