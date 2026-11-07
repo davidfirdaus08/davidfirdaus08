@@ -68,8 +68,8 @@ Berikut beberapa proyek yang pernah saya kerjakan:
       <h3>📖 Portofolio</h3>
       <p style="color: #8b949e; font-size: 14px;">Website Portofolio Personal</p>
       <br>
-      <a href="https://davidfirdaus08.github.io/portofolio/">
-        <img src="https://img.shields.io/badge/Kunjungi_Website-181717?style=for-the-badge&logo=github&logoColor=white" alt="About Me" />
+      <a href="https://davidfirdaus.pages.dev/">
+        <img src="https://img.shields.io/badge/Buka_Aplikasi-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portofolio" />
       </a>
     </td>
     <td align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 25px; width: 300px;">
